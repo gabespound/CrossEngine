@@ -1,0 +1,6 @@
+﻿  main.cpp
+g:\p\crossengine\crossengine-core\src\math\math_func.h(11): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  mat4.cpp
+g:\p\crossengine\crossengine-core\src\math\math_func.h(11): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  CrossEngine-core.vcxproj -> G:\p\CrossEngine\bin\Debug\CrossEngine-core.exe
